@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=IgnacyMermer)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mateuszpolis)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuszpolis=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
 **mateuszpolis/mateuszpolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
