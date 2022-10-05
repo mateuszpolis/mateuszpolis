@@ -2,6 +2,13 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuszpolis&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 
+###
+Technologies
+###
+
+<img src="https://user-images.githubusercontent.com/77580875/194163061-b75d2886-c590-4dad-8306-ddc5853b6c41.png" height="24" width="24"/>
+
+
 <!--
 **mateuszpolis/mateuszpolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
