@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuszpolis&label=Profile%20views&color=0e75b6&style=flat" alt="mateuszpolis" /> </p>
 
-- 🔭 I’m currently working on [E-commerce Store](https://github.com/mateuszpolis/stock-shop-app)
-
-- 🌱 I’m currently learning **Typescript**
-
 - 📫 How to reach me **polismateusz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
