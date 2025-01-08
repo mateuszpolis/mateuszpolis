@@ -10,4 +10,4 @@
 <a href="https://linkedin.com/in/mateuszpolis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateuszpolis" height="30" width="40" /></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuszpolis&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
